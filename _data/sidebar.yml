@@ -1,10 +1,10 @@
 settings:
   links_font_weight: normal
 profile:
-  image_url: /assets/images/site/js-photo-3.jpeg
+  image_url: /assets/images/site/ar-photo-1.jpg
   alt_text: "Profile photo of Alexandra"
   name: Alexandra Ruiz
-  description: History PhD Candidate at the University of New Mexico
+  description: History PhD Candidate at the University of New Mexico. Photo by [Ottowagraphics](https://pixabay.com/users/ottawagraphics-3815775/).
 links:
   - title: UNM Profile
     url: https://history.unm.edu/people/graduate-students/profiles/jonathan-seyfried.html

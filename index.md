@@ -1,6 +1,6 @@
 ---
 title: Alexandra Ruiz
-layout: base
+layout: left-profile
 date: 2024-12-02
 ---
 
@@ -15,4 +15,4 @@ date: 2024-12-02
   source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
 %}
 
-I am a History PhD student focusing on the U.S. Southwest.
+I am a History PhD Candidate focusing on the U.S. Southwest.
