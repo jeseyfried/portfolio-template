@@ -1,2 +1,6 @@
 baseurl: /portfolio-template/
-layout: base
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "base"
