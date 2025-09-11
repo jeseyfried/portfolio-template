@@ -1,6 +1,8 @@
 ---
 title: Curriculum Vitae
 layout: base
+homepage: TRUE
+summary: My CV contains info about my work experience and more
 ---
 
 # Alexandra Ruiz
